@@ -2,11 +2,11 @@
  * @Autor: yaojie
  * @Date: 2020-12-02 15:01:40
  * @LastEditors: yaojie
- * @LastEditTime: 2020-12-02 15:18:42
+ * @LastEditTime: 2020-12-02 15:37:04
  * @Description: 
  */
 import React, { Component } from 'react'
-import { Button, List } from 'antd-mobile'
+import { Button } from '../components/index'
 export default class componentName extends Component {
     render() {
         return (
